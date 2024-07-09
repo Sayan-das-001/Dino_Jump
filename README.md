@@ -1,4 +1,4 @@
-# Myntra-Clone
+## Dino_Jump
 
 Dino-Jump is an engaging web-based game created using HTML, CSS, and JavaScript, designed to deliver a nostalgic gaming experience reminiscent of classic browser games. The game features a simple yet addictive premise where players control a dinosaur character that must jump over obstacles to score points.
 
