@@ -15,23 +15,23 @@ Dino-Jump is an engaging web-based game created using HTML, CSS, and JavaScript,
 **Backend:** JavaScript
 
 
-## Deployment
-
-Clone Git-Repo
-
-```bash
-git clone https://github.com/Sayan-das-001/Dino_Jump
-```
-
-Open the Folder
-
-```bash
-cd Dino_Jump
-```
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Sayan-das-001/Dino_Jump.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Dino_Jump
+    ```
+3. Open `index.html` in your favorite web browser:
+    ```bash
+    open index.html
+    ```
 
 **VS Code**
 
-Open the folder and Right-Click on the folder.
+Open the folder and Right-Click on the folder, open with vscode.
 
 **Live Server**
 
